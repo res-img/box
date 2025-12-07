@@ -1,0 +1,304 @@
+# Blender 4.5.3 LTS MTL File: 'Untitled.blend'
+# www.blender.org
+
+newmtl Default_Material
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl jugular_dash
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/jugular_dash.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/jugular_dash_s.dds
+map_Bump -bm 0.300000 C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_leather2_n.dds
+
+newmtl jugular_dash_[PAINT:6]
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/jugular_dash.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/jugular_dash_s.dds
+map_Bump -bm 0.300000 C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_leather2_n.dds
+
+newmtl jugular_detail
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/jugular_detail.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_smallspecmap.dds
+
+newmtl jugular_detail_[PAINT:6]
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/jugular_detail.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_smallspecmap.dds
+
+newmtl jugular_interior
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/jugular_interior.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_smallspecmap.dds
+
+newmtl jugular_interior_[PAINT:6]
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/jugular_interior.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_smallspecmap.dds
+
+newmtl r300_caliper_d_[PAINT:2]
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/r300_caliper_d.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/r300_caliper_s.dds
+map_Bump -bm 1.000000 C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/r300_caliper_n.dds
+
+newmtl rhinehart_detail
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/black.dds
+map_Ke C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/rhinehart_detail.dds
+
+newmtl script_rt_dials_race
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_smallspecmap.dds
+map_Ke C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/script_rt_dials_race.dds
+
+newmtl sentinel5_badge
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/sentinel5_badge.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/sentinel5_badge_s.dds
+map_Bump -bm 0.200000 C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/sentinel5_badge_n.dds
+
+newmtl sentinel5_black
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.705882 0.705882 0.705882
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_smallspecmap.dds
+
+newmtl sentinel5_lights
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd /sentinel5_lights.dds
+map_Ks /vehicle_generic_smallspecmap.dds
+
+newmtl sentinel5_lights.001
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_smallspecmap.dds
+map_Ke /sentinel5_lights.dds
+
+newmtl vehicle_generic_carbon
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_carbon.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/carbon_mesh_shader_spec.dds
+map_Bump -bm 1.000000 C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/blank_normal.dds
+
+newmtl vehicle_generic_carbon.001
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_carbon.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/black.dds
+
+newmtl vehicle_generic_carbon.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.705882 0.705882 0.705882
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_smallspecmap.dds
+
+newmtl vehicle_generic_detail2
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_detail2.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_detail_spec.dds
+map_Bump -bm 1.000000 C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_detail2_normal.dds
+
+newmtl vehicle_generic_detail2.001
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_detail2.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_detail_spec.dds
+map_Bump -bm 1.000000 C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_detail2_normal.dds
+
+newmtl vehicle_generic_detail_stitch_[PAINT:2]
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_detail_stitch.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_detail_stitch.dds
+
+newmtl vehicle_generic_doorshut_[PAINT:1]
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_doorshut.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_smallspecmap.dds
+map_Bump -bm 1.000000 C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_doorshut_normal.dds
+
+newmtl vehicle_generic_glasswindows2
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_glasswindows2.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_smallspecmap.dds
+
+newmtl vehicle_generic_glasswindows2.001
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_glasswindows2.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_smallspecmap.dds
+
+newmtl vehicle_generic_mesh4
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_mesh4.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_mesh4.dds
+map_Bump -bm 1.000000 C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/normal_flat_small.dds
+
+newmtl vehicle_generic_smallspecmap_[PAINT:1]
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.682353 0.823529 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_alloy_silver_spec.dds
+
+newmtl vehicle_generic_smallspecmap_[PAINT:2]
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.105882 0.274510
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_alloy_silver_spec.dds
+
+newmtl vehicle_generic_smallspecmap_[PAINT:7]
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_smallspecmap.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/carbon_mesh_shader_spec.dds
+map_Bump -bm 1.000000 C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_tyrewall_normal.dds
+
+newmtl vehicle_generic_tyrewallblack
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_tyrewallblack.dds
+map_Ks C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_tyrewall_spec.dds
+map_Bump -bm 1.000000 C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_tyrewall_normal.dds
+
+newmtl vehicle_genericmud_car
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Bump -bm 1.000000 C:/Users/alisa/Downloads/Users/kaank/Desktop/sentinal/vehicle_generic_plate_font_n.dds
